@@ -58,7 +58,6 @@ OVERLAP = 4
 ################################################################################
 #
 # Test Data
-
 def bwalk(min, max, std):
     """ Generates a bounded random walk. """
     rng = max - min
